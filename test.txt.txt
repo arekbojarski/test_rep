@@ -1,2 +1,4 @@
 To jest moj pierwszy plik w gitHubie
 Teraz dodam druga linie i sprawdze czy zostala ona wczytana
+Teraz wrzucam trzecia linie //ta linia jest niesprawna
+Wrzucam poprawke
